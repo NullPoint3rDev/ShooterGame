@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
 
 
-public class Display  {
+public class Display {
     public static void main(String[] args) {
         JFrame mainFrame = new JFrame("Shoot 'em all!");
         mainFrame.setDefaultCloseOperation(EXIT_ON_CLOSE);
